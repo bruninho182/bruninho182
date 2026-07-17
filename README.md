@@ -13,7 +13,9 @@
 * 🔭 Atualmente trabalhando em **[ICDHub](https://github.com/bruninho182/ICDhub)**
 * 🌱 Atualmente focado em aprender **[inserir tecnologias, ex: React, Node, Python]**
 * 👯 Aberto a colaborações em **[projetos open source / ideias]**
-* 📫 Como me contatar: **[seu email ou link do LinkedIn]**
+* 📫 Como me contatar: **[<a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>]**
 * ⚡ Curiosidade: **[um hobby ou fato divertido sobre você]**
 
 ---
@@ -48,7 +50,7 @@
   <a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@email.com">
+  <a href="mailto:brunopf1996@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>

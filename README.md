@@ -61,9 +61,10 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
       <sub>Hub de eventos e gestão</sub>
     </td>
     <td align="center">
-      <a href="https://https://github.com/bruninho182/Residen-idle" width="40">
-        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" />
-      </a>
+    <a href="https://github.com/bruninho182/Residen-idle">
+        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" width="40" />
+    </a>
+</td>
       <br />
       <sub>Resident Evil Indle</sub>
     </td>

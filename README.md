@@ -55,7 +55,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
   <tr>
     <td align="center">
       <a href="https://github.com/bruninho182/ICDhub">
-        <img src="(https://github.com/bruninho182/ICDhub/blob/main/icon.png)" />
+        <img src="https://github.com/bruninho182/ICDhub/blob/main/icon.png" />
       </a>
       <br />
       <sub>Hub de eventos e gestão</sub>

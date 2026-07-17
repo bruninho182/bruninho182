@@ -45,7 +45,7 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="[https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/bruno-ferreira-6361b016b/)" target="_blank">
+  <a href="[https://linkedin.com/in/bruno-ferreira-6361b016b](https://www.linkedin.com/in/bruno-ferreira-6361b016b/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL@email.com">

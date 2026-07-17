@@ -34,7 +34,7 @@
 
 <div align="center">
   <!-- Você pode alterar as tecnologias mudando as siglas na URL abaixo -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker=5" />
 </div>
 
 ---
@@ -53,14 +53,3 @@
 </div>
 
 ---
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-  <a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:brunopf1996@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>

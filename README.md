@@ -82,11 +82,11 @@ Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndi
 
 | Sistema | Jogo | Status |
 | :---: | :--- | :--- |
-| <img src="./Img/gba.png" width="40"> | [Tony Hawk's Pro Skater 3](https://github.com/ROM-SYNDICATE/Tony-Hawks-Pro-Sakter-3-GBA-PTBR) | Pronto |
-| <img src="./Img/gbc.png" width="40"> | [Turok 2: Seeds of Evil](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) | Pronto |
-| <img src="./Img/gbc.png" width="40"> | [Turok - Battle of the Bionosaurs](https://github.com/ROM-SYNDICATE/Turok-Battle-of-the-Bionosaurs-GBC-PTBR) | Pronto |
-| <img src="./Img/gbc.png" width="40"> | [Driver](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) | Em andamento |
-| <img src="./Img/gba.png" width="40"> | Tony Hawk's Underground | Em andamento |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gba.png" width="40"> | [Tony Hawk's Pro Skater 3](https://github.com/ROM-SYNDICATE/Tony-Hawks-Pro-Sakter-3-GBA-PTBR) | Pronto |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gbc.png" width="40"> | [Turok 2: Seeds of Evil](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) | Pronto |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gbc.png" width="40"> | [Turok - Battle of the Bionosaurs](https://github.com/ROM-SYNDICATE/Turok-Battle-of-the-Bionosaurs-GBC-PTBR) | Pronto |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gbc.png" width="40"> | [Driver](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) | Em andamento |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gba.png" width="40"> | Tony Hawk's Underground | Em andamento |
 | <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/n64.png" width="30"> | [Shadowgate 64 : Trials of the Four Towers](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) | Investigação Técnica |
 | <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/psx.png" width="30"> | Initial D | Investigação Técnica |
 

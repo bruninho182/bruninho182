@@ -64,15 +64,6 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 
 ---
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-<h2 align="center">📊 Minhas Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruninho182&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <!-- SEÇÃO ESPECIAL: ROM HACKING E ROM SYNDICATE -->
 <h2 align="center">🕹️ ROM Hacking & Traduções</h2>
 

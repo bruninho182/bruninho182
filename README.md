@@ -1,27 +1,29 @@
-<!-- Banner / Cabeçalho -->
+<!-- BANNER DE CABEÇALHO COM EFEITO GRADIENTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub%20%7C%20ROM%20Hacker&descAlignY=55" width="100%"/>
 </p>
 
-<!-- Contador de visitas (opcional) -->
+<!-- CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/bruninho182/count.svg" alt="Visitas ao perfil" />
 </p>
 
-<!-- Sobre mim -->
+---
+
+<!-- SOBRE MIM -->
 <h2 align="center">🚀 Sobre mim</h2>
 
-Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções web inovadoras. Atualmente, trabalho no projeto **ICDHub** e estou sempre em busca de novos desafios.
+Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções web inovadoras. Atualmente, trabalho no projeto **ICDHub** e também sou fundador da **ROM Syndicate**, onde unimos tecnologia e nostalgia para traduzir e preservar jogos clássicos.
 
-- 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – um hub de eventos e gestão.
+- 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – Hub de eventos e gestão.
 - 🌱 **Aprendendo:** React, Node.js e Python – sempre evoluindo.
-- 👯 **Colaborações:** Aberto a projetos open source interessantes.
-- 💬 **Pergunte-me sobre:** JavaScript, HTML, CSS, e boas práticas de desenvolvimento.
-- ⚡ **Fato curioso:** [adicione algo pessoal, ex: "sou viciado em café e resolver problemas"].
+- 👯 **Colaborações:** Aberto a projetos open source e ROM Hacking.
+- 💬 **Pergunte-me sobre:** JavaScript, HTML, CSS, engenharia reversa em jogos e traduções.
+- ⚡ **Fato curioso:** [SEU_FATO_CURIOSO_AQUI - Ex: "já passei horas analisando código assembly de um jogo GBA só por diversão"].
 
 ---
 
-<!-- Tecnologias e Ferramentas -->
+<!-- TECNOLOGIAS E FERRAMENTAS -->
 <h2 align="center">🛠️ Stack Tecnológica</h2>
 
 <p align="center">
@@ -33,11 +35,12 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/ROM_Hacking-FF6600?style=for-the-badge&logo=retroarch&logoColor=white" alt="ROM Hacking"/>
 </p>
 
 ---
 
-<!-- Estatísticas do GitHub -->
+<!-- ESTATÍSTICAS DO GITHUB -->
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <p align="center">
@@ -51,7 +54,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 
 ---
 
-<!-- Projetos em Destaque -->
+<!-- PROJETOS EM DESTAQUE (PARTE 1 - SEUS 3 PRINCIPAIS) -->
 <h2 align="center">📌 Projetos em Destaque</h2>
 
 <table align="center">
@@ -82,25 +85,43 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 
 ---
 
-<!-- Contato e Redes Sociais -->
+<!-- SEÇÃO ESPECIAL: ROM HACKING E ROM SYNDICATE -->
+<h2 align="center">🕹️ ROM Hacking & Traduções</h2>
+
+Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndicate](https://github.com/ROM-SYNDICATE)**, um projeto que vai além de traduzir jogos: documentamos ferramentas, processos técnicos e desafios de engenharia reversa para compartilhar conhecimento com a comunidade.
+
+**Projetos em destaque da ROM Syndicate:**
+
+- [Tony Hawk's Pro Skater 3 (GBA) - PT-BR](https://github.com/ROM-SYNDICATE/Tony-Hawks-Pro-Sakter-3-GBA-PTBR) ✅ Concluído
+- [Turok 2: Seeds of Evil (GBC) - PT-BR](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) ✅ Concluído
+- [Driver (GBC) - PT-BR](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) 🚧 Em andamento
+- [Shadowgate 64 (N64) - PT-BR](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) 🔍 Investigação Técnica
+
+> 💡 **Filosofia:** Acreditamos que o conhecimento deve ser compartilhado. Por isso, cada repositório documenta ferramentas, processos e guias para que outros possam aprender e contribuir.
+
+---
+
+<!-- CONTATO E REDES SOCIAIS -->
 <h2 align="center">📫 Onde me encontrar</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[seu-usuario]" target="_blank">
+  <a href="https://linkedin.com/in/[SEU_USUARIO_LINKEDIN]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[seu-email]" target="_blank">
+  <a href="mailto:[SEU_EMAIL]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/bruninho182" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Adicione outras redes se desejar -->
+  <a href="https://github.com/ROM-SYNDICATE" target="_blank">
+    <img src="https://img.shields.io/badge/ROM_Syndicate-FF6600?style=for-the-badge&logo=github&logoColor=white" alt="ROM Syndicate"/>
+  </a>
 </p>
 
 ---
 
-<!-- Footer -->
+<!-- RODAPÉ COM EFEITO GRADIENTE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>

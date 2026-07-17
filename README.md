@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub%20%7C%20ROM%20Hacker&descAlignY=55" width="100%"/>
 </p>
 
-<!-- CONTADOR DE VISITAS -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bruninho182/count.svg" alt="Visitas ao perfil" />
-</p>
-
 ---
 
 <!-- SOBRE MIM -->
@@ -16,10 +11,9 @@
 Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções web inovadoras. Atualmente, trabalho no projeto **ICDHub** e também sou fundador da **ROM Syndicate**, onde unimos tecnologia e nostalgia para traduzir e preservar jogos clássicos.
 
 - 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – Hub de eventos e gestão.
-- 🌱 **Aprendendo:** React, Node.js e Python – sempre evoluindo.
+- 🌱 **Aprendendo:** React, Node.js e Python.
 - 👯 **Colaborações:** Aberto a projetos open source e ROM Hacking.
 - 💬 **Pergunte-me sobre:** JavaScript, HTML, CSS, engenharia reversa em jogos e traduções.
-- ⚡ **Fato curioso:** [SEU_FATO_CURIOSO_AQUI - Ex: "já passei horas analisando código assembly de um jogo GBA só por diversão"].
 
 ---
 
@@ -105,10 +99,10 @@ Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndi
 <h2 align="center">📫 Onde me encontrar</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU_USUARIO_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[SEU_EMAIL]" target="_blank">
+  <a href="mailto:[brunopf1996@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/bruninho182" target="_blank">

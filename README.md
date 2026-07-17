@@ -78,12 +78,18 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 
 Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndicate](https://github.com/ROM-SYNDICATE)**, um projeto que vai além de traduzir jogos: documentamos ferramentas, processos técnicos e desafios de engenharia reversa para compartilhar conhecimento com a comunidade.
 
-**Projetos em destaque da ROM Syndicate:**
+### 🎮 Projetos em Destaque
 
-- [Tony Hawk's Pro Skater 3 (GBA) - PT-BR](https://github.com/ROM-SYNDICATE/Tony-Hawks-Pro-Sakter-3-GBA-PTBR) ✅ Concluído
-- [Turok 2: Seeds of Evil (GBC) - PT-BR](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) ✅ Concluído
-- [Driver (GBC) - PT-BR](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) 🚧 Em andamento
-- [Shadowgate 64 (N64) - PT-BR](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) 🔍 Investigação Técnica
+| Sistema | Jogo | Status |
+| :---: | :--- | :--- |
+| <img src="./Img/gba.png" width="40"> | [Tony Hawk's Pro Skater 3](https://github.com/ROM-SYNDICATE/Tony-Hawks-Pro-Sakter-3-GBA-PTBR) | Pronto |
+| <img src="./Img/gbc.png" width="40"> | [Turok 2: Seeds of Evil](https://github.com/ROM-SYNDICATE/Turok-2-Seeds-of-Evil-GBC-PTBR) | Pronto |
+| <img src="./Img/gbc.png" width="40"> | [Turok - Battle of the Bionosaurs](https://github.com/ROM-SYNDICATE/Turok-Battle-of-the-Bionosaurs-GBC-PTBR) | Pronto |
+| <img src="./Img/gbc.png" width="40"> | [Driver](https://github.com/ROM-SYNDICATE/DRIVE-GBC-PTBR/tree/main) | Em andamento |
+| <img src="./Img/gba.png" width="40"> | Tony Hawk's Underground | Em andamento |
+| <img src="./Img/n64.png" width="30"> | [Shadowgate 64 : Trials of the Four Towers](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) | Investigação Técnica |
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/psx.png" width="30"> | Initial D | Investigação Técnica |
+
 
 > 💡 **Filosofia:** Acreditamos que o conhecimento deve ser compartilhado. Por isso, cada repositório documenta ferramentas, processos e guias para que outros possam aprender e contribuir.
 

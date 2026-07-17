@@ -1,55 +1,106 @@
-<div align="center">
-  
-# Olá, eu sou o Bruno! 👋
+<!-- Banner / Cabeçalho -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub&descAlignY=55" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Desenvolvedor;Apaixonado+por+tecnologia;Sempre+aprendendo)](https://git.io/typing-svg)
+<!-- Contador de visitas (opcional) -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bruninho182/count.svg" alt="Visitas ao perfil" />
+</p>
 
-</div>
+<!-- Sobre mim -->
+<h2 align="center">🚀 Sobre mim</h2>
+
+Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções web inovadoras. Atualmente, trabalho no projeto **ICDHub** e estou sempre em busca de novos desafios.
+
+- 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – um hub de eventos e gestão.
+- 🌱 **Aprendendo:** React, Node.js e Python – sempre evoluindo.
+- 👯 **Colaborações:** Aberto a projetos open source interessantes.
+- 💬 **Pergunte-me sobre:** JavaScript, HTML, CSS, e boas práticas de desenvolvimento.
+- ⚡ **Fato curioso:** [adicione algo pessoal, ex: "sou viciado em café e resolver problemas"].
 
 ---
 
-## 👨‍💻 Sobre mim
+<!-- Tecnologias e Ferramentas -->
+<h2 align="center">🛠️ Stack Tecnológica</h2>
 
-* 🔭 Atualmente trabalhando em **[ICDHub](https://github.com/bruninho182/ICDhub)**
-  
-* 🌱 Atualmente focado em aprender **[inserir tecnologias, ex: React, Node, Python]**
-  
-* 👯 Aberto a colaborações em **[projetos open source / ideias]**
-  
-* 📫 Como me contatar: <a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+<!-- Estatísticas do GitHub -->
+<h2 align="center">📊 Minhas Estatísticas</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruninho182&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruninho182&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruninho182&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- Projetos em Destaque -->
+<h2 align="center">📌 Projetos em Destaque</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/bruninho182/ICDhub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruninho182&repo=ICDhub&theme=radical" />
+      </a>
+      <br />
+      <sub>Hub de eventos e gestão</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bruninho182/ICDeventos-Hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruninho182&repo=ICDeventos-Hub&theme=radical" />
+      </a>
+      <br />
+      <sub>Plataforma de eventos</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bruninho182/Reserva_Escolar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bruninho182&repo=Reserva_Escolar&theme=radical" />
+      </a>
+      <br />
+      <sub>Sistema de reservas escolares</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Contato e Redes Sociais -->
+<h2 align="center">📫 Onde me encontrar</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/[seu-usuario]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:brunopf1996@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:[seu-email]" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-  
-  
-* ⚡ Curiosidade: **[um hobby ou fato divertido sobre você]**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <!-- Você pode alterar as tecnologias mudando as siglas na URL abaixo -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker=5" />
-</div>
+  <a href="https://github.com/bruninho182" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Adicione outras redes se desejar -->
+</p>
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bruninho182&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruninho182&theme=dracula" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruninho182&layout=compact&theme=dracula" width="48%" />
-
-</div>
-
----
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>

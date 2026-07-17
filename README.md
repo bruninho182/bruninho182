@@ -62,7 +62,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
     </td>
     <td align="center">
     <a href="https://github.com/bruninho182/Residen-idle">
-        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" width="100" />
+        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" width="150" />
     </a>
 </td>
       <br />

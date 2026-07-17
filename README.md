@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub%20%7C%20ROM%20Hacker&descAlignY=55" width="100%"/>
 </p>
 
----
-
 <!-- SOBRE MIM -->
 <h2 align="center">👽 Sobre mim</h2>
 

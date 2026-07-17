@@ -58,6 +58,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/ROM_Hacking-FF6600?style=for-the-badge&logo=retroarch&logoColor=white" alt="ROM Hacking"/>
 </p>
 

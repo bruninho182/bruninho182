@@ -68,7 +68,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
     </td>
     <td align="center">
       <a href="https://github.com/bruninho182/Reserva_Escolar">
-        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" width="150" />
+        <img src="https://github.com/bruninho182/Reserva_Escolar/blob/main/icon.png" width="150" />
       </a>
       <br />
     </td>

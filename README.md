@@ -102,8 +102,6 @@ Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndi
   </a>
 </p>
 
----
-
 <!-- RODAPÉ COM EFEITO GRADIENTE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-* 🔭 Atualmente trabalhando em **[[inserir seu projeto atual](https://github.com/bruninho182/ICDhub)]**
+* 🔭 Atualmente trabalhando em **[ICDHub](https://github.com/bruninho182/ICDhub)]**
 * 🌱 Atualmente focado em aprender **[inserir tecnologias, ex: React, Node, Python]**
 * 👯 Aberto a colaborações em **[projetos open source / ideias]**
 * 📫 Como me contatar: **[seu email ou link do LinkedIn]**

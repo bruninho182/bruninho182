@@ -41,7 +41,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
     </td>
   <td align="center">
       <a href="https://github.com/bruninho182/PokeHackidle">
-        <img src="https://github.com/bruninho182/PokeHackidle/blob/main/img/banner.png" />
+        <img src="https://github.com/bruninho182/PokeHackidle/blob/main/icon.png" />
       </a>
       <br />
     </td>

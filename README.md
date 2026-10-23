@@ -22,7 +22,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
   <tr>
     <td align="center">
       <a href="https://github.com/ROM-SYNDICATE">
-        <img src="https://raw.githubusercontent.com/ROM-SYNDICATE/.github/main/profile/Img/logo.png" width="150" alt="ROM Syndicate"/>
+        <img src="https://raw.githubusercontent.com/romsyndicate/Web/refs/heads/main/assets/img/logo/logo-full-transparent.png" width="150" alt="ROM Syndicate"/>
       </a>
       <br />
       <sub><b>ROM Syndicate</b></sub>

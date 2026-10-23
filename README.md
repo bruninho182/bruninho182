@@ -21,47 +21,45 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/ROM-SYNDICATE">
+        <img src="https://raw.githubusercontent.com/ROM-SYNDICATE/.github/main/profile/Img/logo.png" width="150" alt="ROM Syndicate"/>
+      </a>
+      <br />
+      <sub><b>ROM Syndicate</b></sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/bruninho182/ICDhub">
         <img src="https://raw.githubusercontent.com/bruninho182/ICDhub/main/icon.png" width="150" alt="ICDHub"/>
       </a>
+      <br />
+      <sub><b>ICDHub</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/bruninho182/Residen-idle">
         <img src="https://raw.githubusercontent.com/bruninho182/Residen-idle/main/assets/page/logo.png" width="150" alt="Residen-idle"/>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bruninho182/ICDhub">
-        <img src="https://github.com/bruninho182/ICDhub/blob/main/icon.png" />
-      </a>
       <br />
+      <sub><b>Residen-idle</b></sub>
     </td>
-    <td align="center">
-    <a href="https://github.com/bruninho182/Residen-idle">
-        <img src="https://github.com/bruninho182/Residen-idle/blob/main/assets/page/logo.png" width="150" />
-    </a>
-    </td>
-      <br />
-    <tr>
-    <td align="center">
-      <a href="https://github.com/bruninho182/ICDhub">
-        <img src="https://github.com/bruninho182/ICDhub/blob/main/icon.png" />
-      </a>
-      <br />
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bruninho182/Reserva_Escolar">
         <img src="https://raw.githubusercontent.com/bruninho182/Reserva_Escolar/main/icon.png" width="150" alt="Reserva Escolar"/>
       </a>
+      <br />
+      <sub><b>Reserva Escolar</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/bruninho182/PokeHackidle">
         <img src="https://raw.githubusercontent.com/bruninho182/PokeHackidle/main/icon.png" width="150" alt="PokeHackidle"/>
       </a>
+      <br />
+      <sub><b>PokeHackidle</b></sub>
     </td>
+    <td align="center"></td>
   </tr>
 </table>
-
 ---
 
 <!-- TECNOLOGIAS E FERRAMENTAS -->

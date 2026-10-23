@@ -21,7 +21,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/ROM-SYNDICATE">
+      <a href="https://romsyndicate.vercel.app/">
         <img src="https://raw.githubusercontent.com/romsyndicate/Web/refs/heads/main/assets/img/logo/logo-full-transparent.png" width="150" alt="ROM Syndicate"/>
       </a>
       <br />
@@ -48,10 +48,9 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
       <br />
       <sub><b>PokeHackidle</b></sub>
     </td>
-    <td align="center"></td>
   </tr>
-    
 </table>
+
 ---
 
 <!-- TECNOLOGIAS E FERRAMENTAS -->

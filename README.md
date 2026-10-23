@@ -41,15 +41,6 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
       <br />
       <sub><b>Residen-idle</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/bruninho182/Reserva_Escolar">
-        <img src="https://raw.githubusercontent.com/bruninho182/Reserva_Escolar/main/icon.png" width="150" alt="Reserva Escolar"/>
-      </a>
-      <br />
-      <sub><b>Reserva Escolar</b></sub>
-    </td>
     <td align="center">
       <a href="https://github.com/bruninho182/PokeHackidle">
         <img src="https://raw.githubusercontent.com/bruninho182/PokeHackidle/main/icon.png" width="150" alt="PokeHackidle"/>
@@ -59,6 +50,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
     </td>
     <td align="center"></td>
   </tr>
+    
 </table>
 ---
 

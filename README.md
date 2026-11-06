@@ -11,7 +11,7 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
 - 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – Hub de eventos e gestão.
 - 🌱 **Aprendendo:** React, Node.js e Python.
 - 💪 **Colaborações:** Aberto a projetos open source e ROM Hacking.
-- 💬 **Pergunte-me sobre:** JavaScript, HTML, CSS, engenharia reversa em jogos e traduções.
+- 💬 **Pergunte-me sobre:** JavaScript, TypeScript, React, engenharia reversa em jogos e traduções.
 
 ---
 

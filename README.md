@@ -42,11 +42,11 @@ Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções w
       <sub><b>Residen-idle</b></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/bruninho182/PokeHackidle">
-        <img src="https://raw.githubusercontent.com/bruninho182/PokeHackidle/main/icon.png" width="150" alt="PokeHackidle"/>
+      <a href="https://github.com/bruninho182/ocarina-of-time-psp-ptbr">
+        <img src="https://raw.githubusercontent.com/bruninho182/bruninho182/main/ocarina-psp-ptbr-banner.png" width="300" alt="Link, um PSP verde e a bandeira do Brasil"/>
       </a>
       <br />
-      <sub><b>PokeHackidle</b></sub>
+      <a href="https://github.com/bruninho182/ocarina-of-time-psp-ptbr"><sub><b>Ocarina of Time PSP · PT-BR</b></sub></a>
     </td>
   </tr>
 </table>

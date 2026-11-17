@@ -1,82 +1,24 @@
-<!-- BANNER DE CABEÇALHO COM EFEITO GRADIENTE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bruno%20Patrick&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Desenvolvedor%20JavaScript%20%7C%20ICDHub%20%7C%20ROM%20Hacker&descAlignY=55" width="100%" alt="Banner Bruno Patrick"/>
-</p>
+# Bruno Patrick Ferreira
 
-<!-- SOBRE MIM -->
-<h2 align="center">👽 Sobre mim</h2>
+**Desenvolvimento web · ROM hacking · Localização de jogos**
 
-Olá! Sou **Bruno Patrick Ferreira**, desenvolvedor focado em criar soluções web inovadoras. Atualmente, trabalho no projeto **ICDHub** e também sou fundador da **ROM Syndicate**, onde unimos tecnologia e nostalgia para traduzir e preservar jogos clássicos.
+Trabalho no **ICDHub**, um hub de eventos e gestão, e fundei a **ROM Syndicate** para traduzir e preservar jogos clássicos. Também desenvolvo ferramentas para facilitar a instalação de patches e documento os processos para que outras pessoas possam reproduzi-los.
 
-- 🔭 **Trabalhando em:** [ICDHub](https://github.com/bruninho182/ICDhub) – Hub de eventos e gestão.
-- 🌱 **Aprendendo:** React, Node.js e Python.
-- 💪 **Colaborações:** Aberto a projetos open source e ROM Hacking.
-- 💬 **Pergunte-me sobre:** JavaScript, TypeScript, React, engenharia reversa em jogos e traduções.
+## Projetos em destaque
 
----
+| Projeto | O que faço |
+| --- | --- |
+| [ICDHub](https://github.com/bruninho182/ICDhub) | Desenvolvimento web para um hub de eventos e gestão. |
+| [ROM Syndicate](https://github.com/ROM-SYNDICATE) | Tradução, preservação e documentação técnica de jogos clássicos. |
+| [Ocarina of Time PSP · PT-BR](https://github.com/bruninho182/ocarina-of-time-psp-ptbr) | Adaptação da tradução de Hyllian e Odin para o port de PSP 1.0. Criei um patcher para Windows e documentei a instalação. |
+| [Residen-idle](https://github.com/bruninho182/Residen-idle) | Projeto pessoal de jogo idle. |
 
-<!-- PROJETOS EM DESTAQUE -->
-<h2 align="center">📌 Projetos em Destaque</h2>
+[<img src="ocarina-psp-ptbr-banner.png" width="500" alt="Link, um PSP verde e a bandeira do Brasil">](https://github.com/bruninho182/ocarina-of-time-psp-ptbr)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://romsyndicate.vercel.app/">
-        <img src="https://raw.githubusercontent.com/romsyndicate/Web/refs/heads/main/assets/img/logo/logo-full-transparent.png" width="150" alt="ROM Syndicate"/>
-      </a>
-      <br />
-      <sub><b>ROM Syndicate</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bruninho182/ICDhub">
-        <img src="https://raw.githubusercontent.com/bruninho182/ICDhub/main/icon.png" width="150" alt="ICDHub"/>
-      </a>
-      <br />
-      <sub><b>ICDHub</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bruninho182/Residen-idle">
-        <img src="https://raw.githubusercontent.com/bruninho182/Residen-idle/main/assets/page/logo.png" width="150" alt="Residen-idle"/>
-      </a>
-      <br />
-      <sub><b>Residen-idle</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bruninho182/ocarina-of-time-psp-ptbr">
-        <img src="https://raw.githubusercontent.com/bruninho182/bruninho182/main/ocarina-psp-ptbr-banner.png" width="150" alt="Link, um PSP verde e a bandeira do Brasil"/>
-      </a>
-      <br />
-      <a href="https://github.com/bruninho182/ocarina-of-time-psp-ptbr"><sub><b>Ocarina of Time PSP · PT-BR</b></sub></a>
-    </td>
-  </tr>
-</table>
+## Traduções e preservação
 
----
-
-<!-- TECNOLOGIAS E FERRAMENTAS -->
-<h2 align="center">🛠️ Stack Tecnológica</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/ROM_Hacking-FF6600?style=for-the-badge&logo=gamepad&logoColor=white" alt="ROM Hacking"/>
-</p>
-
----
-
-<!-- SEÇÃO ESPECIAL: ROM HACKING E ROM SYNDICATE -->
-<h2 align="center">🕹️ ROM Hacking & Traduções</h2>
-
-Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndicate](https://github.com/ROM-SYNDICATE)**, um projeto que vai além de traduzir jogos: documentamos ferramentas, processos técnicos e desafios de engenharia reversa para compartilhar conhecimento com a comunidade.
-
-### 🎮 Projetos em Destaque
+<details>
+<summary>Ver jogos e status na ROM Syndicate</summary>
 
 | Sistema | Jogo | Status |
 | :---: | :--- | :--- |
@@ -88,29 +30,14 @@ Sou apaixonado por preservação de jogos e localização. Fundei a **[ROM Syndi
 | <img src="https://raw.githubusercontent.com/ROM-SYNDICATE/.github/main/profile/Img/n64.png" width="30" alt="N64"> | [Shadowgate 64: Trials of the Four Towers](https://github.com/ROM-SYNDICATE/ShadowGate64-N64-PTBR/tree/main) | Investigação Técnica |
 | <img src="https://raw.githubusercontent.com/ROM-SYNDICATE/.github/main/profile/Img/psx.png" width="30" alt="PSX"> | Initial D | Investigação Técnica |
 
-> 💡 **Filosofia:** Acreditamos que o conhecimento deve ser compartilhado. Por isso, cada repositório documenta ferramentas, processos e guias para que outros possam aprender e contribuir.
+</details>
 
----
+## Tecnologias
 
-<!-- CONTATO E REDES SOCIAIS -->
-<h2 align="center">📫 Onde me encontrar</h2>
+**Web** · JavaScript, TypeScript, React, HTML e CSS  
+**Ferramentas** · Python, Node.js e Git  
+**Jogos** · Localização, análise de ROMs e criação de patchers
 
-<p align="center">
-  <a href="https://linkedin.com/in/bruno-ferreira-6361b016b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:brunopf1996@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/bruninho182" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/ROM-SYNDICATE" target="_blank">
-    <img src="https://img.shields.io/badge/ROM_Syndicate-FF6600?style=for-the-badge&logo=github&logoColor=white" alt="ROM Syndicate"/>
-  </a>
-</p>
+## Contato
 
-<!-- RODAPÉ COM EFEITO GRADIENTE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Rodapé"/>
-</p>
+[LinkedIn](https://linkedin.com/in/bruno-ferreira-6361b016b) · [E-mail](mailto:brunopf1996@gmail.com) · [ROM Syndicate](https://romsyndicate.vercel.app/)

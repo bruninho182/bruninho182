@@ -55,7 +55,7 @@ Adaptei a tradução de **Hyllian e Odin** para o port nativo de PSP 1.0. O proj
 ## Tecnologias
 
 **Web** · JavaScript, TypeScript, React, HTML e CSS  
-**Ferramentas** · Python, Node.js e Git  
+**Ferramentas** · C#, Python, Node.js e Git  
 **Jogos** · Localização, análise de ROMs e criação de patchers
 
 ## Contato

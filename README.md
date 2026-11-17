@@ -1,19 +1,39 @@
-# Bruno Patrick Ferreira
+<p align="center">
+  <img src="perfil-bruno-banner.png" width="100%" alt="Bruno Patrick — Desenvolvimento web e ROM hacking. Uma bancada com console portátil em pixel art." />
+</p>
 
-**Desenvolvimento web · ROM hacking · Localização de jogos**
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#traduções-e-preservação">Traduções</a> ·
+  <a href="https://linkedin.com/in/bruno-ferreira-6361b016b">LinkedIn</a>
+</p>
 
-Trabalho no **ICDHub**, um hub de eventos e gestão, e fundei a **ROM Syndicate** para traduzir e preservar jogos clássicos. Também desenvolvo ferramentas para facilitar a instalação de patches e documento os processos para que outras pessoas possam reproduzi-los.
+Sou **Bruno Patrick Ferreira**. Desenvolvo para a web no **ICDHub** e fundei a **ROM Syndicate**, onde trabalho com localização e preservação de jogos clássicos em português.
 
 ## Projetos em destaque
 
-| Projeto | O que faço |
-| --- | --- |
-| [ICDHub](https://github.com/bruninho182/ICDhub) | Desenvolvimento web para um hub de eventos e gestão. |
-| [ROM Syndicate](https://github.com/ROM-SYNDICATE) | Tradução, preservação e documentação técnica de jogos clássicos. |
-| [Ocarina of Time PSP · PT-BR](https://github.com/bruninho182/ocarina-of-time-psp-ptbr) | Adaptação da tradução de Hyllian e Odin para o port de PSP 1.0. Criei um patcher para Windows e documentei a instalação. |
-| [Residen-idle](https://github.com/bruninho182/Residen-idle) | Projeto pessoal de jogo idle. |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/bruninho182/ICDhub"><img src="https://raw.githubusercontent.com/bruninho182/ICDhub/main/icon.png" width="150" alt="ICDHub" /></a>
+      <br /><strong><a href="https://github.com/bruninho182/ICDhub">ICDHub</a></strong>
+      <br />Desenvolvimento web para um hub de eventos e gestão.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ROM-SYNDICATE"><img src="https://raw.githubusercontent.com/romsyndicate/Web/refs/heads/main/assets/img/logo/logo-full-transparent.png" width="150" alt="ROM Syndicate" /></a>
+      <br /><strong><a href="https://github.com/ROM-SYNDICATE">ROM Syndicate</a></strong>
+      <br />Traduções de jogos clássicos, ferramentas e documentação técnica.
+    </td>
+  </tr>
+</table>
 
-[<img src="ocarina-psp-ptbr-banner.png" width="500" alt="Link, um PSP verde e a bandeira do Brasil">](https://github.com/bruninho182/ocarina-of-time-psp-ptbr)
+### Ocarina of Time PSP em português brasileiro
+
+[![Link, um PSP verde e a bandeira do Brasil](ocarina-psp-ptbr-banner.png)](https://github.com/bruninho182/ocarina-of-time-psp-ptbr)
+
+Adaptei a tradução de **Hyllian e Odin** para o port nativo de PSP 1.0. O projeto inclui um patcher com interface para Windows, um guia de instalação e fotos dos diálogos rodando em um PSP real.
+
+**[Conhecer o projeto](https://github.com/bruninho182/ocarina-of-time-psp-ptbr)** · Também no perfil: [Residen-idle](https://github.com/bruninho182/Residen-idle), meu projeto de jogo idle.
 
 ## Traduções e preservação
 
